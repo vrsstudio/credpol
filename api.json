@@ -1,7 +1,7 @@
 [
     {
   
-     "image_url": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/pistamobpl/img%2Fcrediton.png",
+     "image_url": "https://github.com/vrsstudio/img/blob/main/crediton.png",
  "rating": 5,
    "obran":"5 (9813 głosów)",
   "sum_one": "300 zł",
@@ -16,7 +16,7 @@
     },
     {
   
-     "image_url": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/pistamobpl/img%2FCashbro.png",
+     "image_url": "https://github.com/vrsstudio/img/blob/main/crediton.png",
     "rating": 5,
      "obran":"4.9 (5679 głosów)",
     "sum_one": "300 zł",
@@ -27,10 +27,9 @@
    "url": "https://tds.pdl-profit.com/h/mcb628e3c5bef867"
   
     },
-
     {
   
-     "image_url": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/pistamobpl/img%2Ffreezlpl.png",
+     "image_url": "https://github.com/vrsstudio/img/blob/main/crediton.png",
     "rating": 5,
      "obran":"5 (4632 głosów)",
     "sum_one": "100 zł",
@@ -43,7 +42,7 @@
     },
     {
   
-     "image_url": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/pistamobpl/img%2Fkuki.png",
+     "image_url": "https://github.com/vrsstudio/img/blob/main/crediton.png",
     "rating": 5,
      "obran":"5 (8670 głosów)",
     "sum_one": "500 zł",
@@ -53,10 +52,10 @@
   "koszt": "0,01 zł",
    "url": "https://tds.pdl-profit.com/h/ma56251a94f75795"
   
-    }
-    ,{
+    },
+    {
   
-     "image_url": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/pistamobpl/img%2Foros.png",
+     "image_url": "https://github.com/vrsstudio/img/blob/main/crediton.png",
    "rating": 5,
      "obran":"5 (7606 głosów)",
   "sum_one": "500 zł",
@@ -69,7 +68,7 @@
     },
     {
   
-     "image_url": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/pistamobpl/img%2Fkreditzen.png",
+     "image_url": "https://github.com/vrsstudio/img/blob/main/crediton.png",
     "rating": 5,
      "obran":"4.7 (3543 głosów)",
     "sum_one": "300 zł",
@@ -79,10 +78,11 @@
   "koszt": "0,01 zł",
    "url": "https://tds.pdl-profit.com/h/ma66251a95cbf1da"
   
-    } ,
+    },
+    
     {
   
-     "image_url": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/pistamobpl/img%2Fcwilivkipl.png",
+     "image_url": "https://github.com/vrsstudio/img/blob/main/crediton.png",
     "rating": 5,
      "obran":"4.5 (6656 głosów)",
     "sum_one": "50 zł",
@@ -93,9 +93,10 @@
    "url": "https://tds.pdl-profit.com/h/lvl620b9404171ce"
   
     },
+    
     {
   
-     "image_url": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/pistamobpl/img%2Flendon.png",
+     "image_url": "https://github.com/vrsstudio/img/blob/main/crediton.png",
     "rating": 5,
      "obran":"4.5 (5122 głosów)",
     "sum_one": "500 zł",
@@ -108,7 +109,7 @@
     },
     {
   
-     "image_url": "https://1cloud.store/v1/AUTH_f50cb405f6ff4676a2918c9b013fafd0/pistamobpl/img%2Fnetcredpl.png",
+     "image_url": "https://github.com/vrsstudio/img/blob/main/crediton.png",
      "rating": 5,
        "obran":"4.7 (4345 głosów)",
      "sum_one": "100 zł",
@@ -119,9 +120,5 @@
      "url": "https://tds.pdl-profit.com/h/m1n620cb02615810"
         
   
-    }   
-
-
-
-      
+    }        
 ]

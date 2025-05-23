@@ -9,7 +9,7 @@
   "term_to": "61",
 "term_max": "от 61 дней до 180 дней",
     "koszt": "0,01 руб",
-     "url": "https://www.google.com/"
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLSdDHVUOSXwHkmRdpGkqf8_55eD0LtHX50FbKKH0xtwQOC9p-A/viewform?usp=sharing&ouid=106266279764492978088"
 
         
   
@@ -24,7 +24,7 @@
   "term_to": "61",
 "term_max": "от 61 дней до 180 дней",
   "koszt": "0,01 руб",
-   "url": "https://www.google.com/"
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdDHVUOSXwHkmRdpGkqf8_55eD0LtHX50FbKKH0xtwQOC9p-A/viewform?usp=sharing&ouid=106266279764492978088"
   
     },
 
@@ -38,7 +38,7 @@
   "term_to": "61",
 "term_max": "от 61 дней до 180 дней",
   "koszt": "0,01 руб",
-   "url": "https://www.google.com/"
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdDHVUOSXwHkmRdpGkqf8_55eD0LtHX50FbKKH0xtwQOC9p-A/viewform?usp=sharing&ouid=106266279764492978088"
   
     },
     {
@@ -51,7 +51,7 @@
   "term_to": "61",
 "term_max": "от 61 дней до 180 дней",
   "koszt": "0,01 руб",
-   "url": "https://www.google.com/"
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScKWfYlWSSb9d07JG8EbaDbtmzSyL8k0xUh8yxHZB2fWPRX1A/viewform?usp=header"
   
     }
     ,{
@@ -64,7 +64,7 @@
   "term_to": "61",
 "term_max": "от 61 дней до 180 дней",
 "koszt": "0,01 руб",
-     "url": "https://www.google.com/"
+     "url": "https://docs.google.com/forms/d/e/1FAIpQLScKWfYlWSSb9d07JG8EbaDbtmzSyL8k0xUh8yxHZB2fWPRX1A/viewform?usp=header"
   
     },
     {
@@ -77,48 +77,10 @@
   "term_to": "61",
 "term_max": "от 61 дней до 180 дней",
   "koszt": "0,01 руб",
-   "url": "https://www.google.com/"
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLScKWfYlWSSb9d07JG8EbaDbtmzSyL8k0xUh8yxHZB2fWPRX1A/viewform?usp=header"
   
-    } ,
-    {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/cwilivkipl.png",
-    "rating": 5,
-     "obran":"4.5 (6656 голосов)",
-    "sum_one": "50 руб",
-  "sum_max": "от 50 - 2000 руб",
-  "term_to": "61",
-"term_max": "от 61 дней до 180 дней",
-  "koszt": "0,01 руб",
-   "url": "https://www.google.com/"
-  
-    },
-    {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/tinbank.gif",
-    "rating": 5,
-     "obran":"4.5 (5122 голосов)",
-    "sum_one": "500 руб",
-  "sum_max": "от 500 - 7500 руб",
-  "term_to": "61",
-"term_max": "от 61 дней до 180 дней",
-  "koszt": "0,01 руб",
-   "url": "https://www.google.com/"
-  
-    },
-    {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/netcredpl.png",
-     "rating": 5,
-       "obran":"4.7 (4345 голосов)",
-     "sum_one": "100 руб",
-  "sum_max": "от 100 - 5000 руб",
-"term_to": "61",
-"term_max": "от 61 дней до 180 дней",
-  "koszt": "0,01 руб",
-     "url": "https://www.google.com/"
-        
-  
-    }   
+    } 
+    
+    
       
 ]

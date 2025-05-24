@@ -9,7 +9,7 @@
   "term_to": "61",
 "term_max": "от 61 дней до 180 дней",
     "koszt": "0,01 руб",
-     "url": "https://docs.google.com/forms/d/e/1FAIpQLSdDHVUOSXwHkmRdpGkqf8_55eD0LtHX50FbKKH0xtwQOC9p-A/viewform?usp=sharing&ouid=106266279764492978088"
+     "url": "https://www.cbr.ru/finorg/"
 
         
   
@@ -24,7 +24,7 @@
   "term_to": "61",
 "term_max": "от 61 дней до 180 дней",
   "koszt": "0,01 руб",
-   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdDHVUOSXwHkmRdpGkqf8_55eD0LtHX50FbKKH0xtwQOC9p-A/viewform?usp=sharing&ouid=106266279764492978088"
+   "url": "https://www.cbr.ru/finorg/"
   
     },
 
@@ -38,7 +38,7 @@
   "term_to": "61",
 "term_max": "от 61 дней до 180 дней",
   "koszt": "0,01 руб",
-   "url": "https://docs.google.com/forms/d/e/1FAIpQLSdDHVUOSXwHkmRdpGkqf8_55eD0LtHX50FbKKH0xtwQOC9p-A/viewform?usp=sharing&ouid=106266279764492978088"
+   "url": "https://www.cbr.ru/finorg/"
   
     },
     {
@@ -51,36 +51,11 @@
   "term_to": "61",
 "term_max": "от 61 дней до 180 дней",
   "koszt": "0,01 руб",
-   "url": "https://docs.google.com/forms/d/e/1FAIpQLScKWfYlWSSb9d07JG8EbaDbtmzSyL8k0xUh8yxHZB2fWPRX1A/viewform?usp=header"
+   "url": "https://www.cbr.ru/finorg/"
   
     }
-    ,{
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/Foros.png",
-   "rating": 5,
-     "obran":"5 (7606 голосов)",
-  "sum_one": "500 руб",
-  "sum_max": "от 500 - 15000 руб",
-  "term_to": "61",
-"term_max": "от 61 дней до 180 дней",
-"koszt": "0,01 руб",
-     "url": "https://docs.google.com/forms/d/e/1FAIpQLScKWfYlWSSb9d07JG8EbaDbtmzSyL8k0xUh8yxHZB2fWPRX1A/viewform?usp=header"
-  
-    },
-    {
-  
-     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/kreditzen.png",
-    "rating": 5,
-     "obran":"4.7 (3543 голосов)",
-    "sum_one": "300 руб",
-  "sum_max": "от 300 - 10000 руб",
-  "term_to": "61",
-"term_max": "от 61 дней до 180 дней",
-  "koszt": "0,01 руб",
-   "url": "https://docs.google.com/forms/d/e/1FAIpQLScKWfYlWSSb9d07JG8EbaDbtmzSyL8k0xUh8yxHZB2fWPRX1A/viewform?usp=header"
-  
-    } 
-    
+   
+ 
     
       
 ]

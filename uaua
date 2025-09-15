@@ -2,7 +2,7 @@
     {
       "name": "Сredos",
       "icon": "https://raw.githubusercontent.com/vrsstudio/img/main/credosua.png",
-      "sum": "до 20 000 грн",
+      "sum": "до 20 000",
       "stars": 5,
       "details": {
         "document": "Паспорт",
@@ -13,12 +13,12 @@
       },
       "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=newss",
       "license": "№ 211082708789798 от 05.07.2017 г.",
-      "description": "<b>Сredos</b> - це українська мікрокредитна компанія, яка пропонує позичальникам позики до 20000 гривень. "
+      "description": "<b>Сredos</b> - це українська мікрокредитна компанія, яка пропонує позичальникам позики до 20000."
     },
     {
       "name": "World Elite Mastercard",
       "icon": "https://raw.githubusercontent.com/vrsstudio/img/main/elitcardua.png",
-      "sum": "до 300 000 грн",
+      "sum": "до 300 000",
       "stars": 4,
       "details": {
         "document": "Паспорт",
@@ -34,7 +34,7 @@
     {
       "name": "Creditnice",
       "icon": "https://raw.githubusercontent.com/vrsstudio/img/main/creditniceua.png",
-      "sum": "до 100 000 грн",
+      "sum": "до 100 000",
       "stars": 4,
       "details": {
         "document": "Паспорт",

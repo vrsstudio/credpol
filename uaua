@@ -1,15 +1,15 @@
 [
     {
-      "name": "Вива деньги",
-      "icon": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
-     "sum": " до 80 000",
+      "name": "Webbankir (Веббанкир)",
+      "icon": "https://raw.githubusercontent.com/vrsstudio/img/main/webbankirs.png",
+     "sum": " до 30 000",
       "stars": 5,
       "details": {
         "document": "Паспорт",
         "schedule": "Круглосуточно",
         "age": "От 18 лет",
         "first_loan_percent": "От 0% в день",
-        "check_speed": "За 30 секунд"
+        "check_speed": "За 10 минут"
       },
       "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=newss",
       "license": "№ 2110827000326 от 05.08.2011 г.",
@@ -17,23 +17,23 @@
     },
     {
       "name": "До Зарплаты",
-      "icon": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
-     "sum": " до 50 000",
+      "icon": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbmir.png",
+     "sum": " до 300 000",
       "stars": 5,
       "details": {
         "document": "Паспорт",
         "schedule": "Круглосуточно",
         "age": "От 18 лет",
-        "first_loan_percent": "От 0% в день",
-        "check_speed": "За 15 минут"
+        "first_loan_percent": "От 0,01% в день",
+        "check_speed": "За 30 минут"
       },
-      "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=newss",
+      "url": "https://www.vtb.ru/personal/karty/debetovye/multikarta/",
       "license": "№ 65‑14‑031‑40‑005467 от 04.08.2014 г.",
       "description": "<b>До Зарплаты</b> — популярный онлайн-сервис микрокредитования в России. Компания ООО МКК «ДЗП-Центр» начала работу 4 августа 2014 года (лицензия ЦБ № 65‑14‑031‑40‑005467). Сервис специализируется на предоставлении краткосрочных онлайн-займов небольших сумм, доступных без визита в офис. «До Зарплаты» обеспечивает оперативное решение финансовых вопросов клиентов во всех регионах России, гарантируя удобство, доступность и прозрачные условия кредитования."
     },
     {
       "name": "Турбозайм",
-      "icon": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
+      "icon": "https://raw.githubusercontent.com/vrsstudio/img/main/webbankirs.png",
     "sum": " до 30 000 руб",
       "stars": 4,
       "details": {

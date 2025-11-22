@@ -1,0 +1,16 @@
+[{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",
+    "company_name": "Деньги до зарплаты",
+    "loan_amount":"от 70 000 до 7 000 000 ₽",
+   "url": "https://alfabank.ru/get-money/credit/do-zarplaty/"
+  }
+,
+
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/sovkobank.png",
+    "company_name": "Кредит на карту",
+    "loan_amount":"от 100 000 до 5 000 000 ₽",
+   "url": "https://sovcombank.ru/apply/credit/kredit-na-kartu/"
+  }
+  
+]

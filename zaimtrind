@@ -1,10 +1,30 @@
 
 [
-
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",   
+ "company_name":"Хорошие условия",
+"loan_amount": "до 5 500 000 ₽",
+"age": "От 18 лет",
+ "url": "https://www.tbank.ru/loans/cash-loan/"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",   
+ "company_name":"Минимальные требования к заемщику",
+"loan_amount": "до 4 000 000 ₽",
+"age": "От 18 лет",
+ "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
+},
+{
+"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",   
+ "company_name":"Первый займ под 0,01%",
+"loan_amount": "до 5 450 000 ₽",
+"age": "От 18 лет",
+ "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
+},
  {
 "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",   
- "company_name":"Хорошие условия",
-"loan_amount": "до 6 000 000 ₽",
+ "company_name":"Проверено временем",
+"loan_amount": "до 7 000 000 ₽",
 "age": "От 18 лет",
  "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
 },
@@ -14,27 +34,6 @@
 "loan_amount": "до 6 450 000 ₽",
 "age": "От 18 лет",
  "url": "https://sovcombank.ru/credits/cash?utm_referrer=https%3A%2F%2Fsovcombank.ru%2Fcredits%2Fcash%3Fysclid%3Dmhub0jdtno262048809"
-},
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",   
- "company_name":"Всегда выгодные условия",
-"loan_amount": "до 5 000 000 ₽",
-"age": "От 18 лет",
- "url": "https://www.tbank.ru/loans/cash-loan/"
-},
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",   
- "company_name":"Первый займ под 0,01%",
-"loan_amount": "до 3 450 000 ₽",
-"age": "От 18 лет",
- "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
-},
-{
-"logo": "https://raw.githubusercontent.com/vrsstudio/img/main/genbankruu.png",   
- "company_name":"Минимальные требования к заемщику",
-"loan_amount": "до 4 000 000 ₽",
-"age": "От 18 лет",
- "url": "https://www.genbank.ru/chastnym-litsam/credit_for_clients/kredity-dlya-chastnykh-lits-/dostupnyy/#product-opening"
 }
-    
+   
 ]

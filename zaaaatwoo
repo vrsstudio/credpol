@@ -1,0 +1,49 @@
+[
+ {
+    "name": "Explore Loans With Simple Applications!",
+    "rating": 5,
+    "odobrenie": "High",
+    "age": "18 years and older",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/banking-absa1.png",
+    "sum_one": "R 1,000 - R 500,000",
+    "url": "https://www.absa.co.za/personal/loans/for-myself/personal-loan/"
+  },
+{
+    "name": "Find a Loan That Fits Your Budget!",
+    "rating": 5,
+    "odobrenie": "High",
+    "age": "18 years and older",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/Nedbank-Logo111.png",
+    "sum_one": "R 500 - R 400,000",
+    "url": "https://personal.nedbank.co.za/borrow/personal-loans.html"
+  },
+  {
+    "name": "Need Cash? Compare Loan Options Today!",
+    "rating": 5,
+    "odobrenie": "High",
+    "age": "18 years and older",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/Capitec_10000.png",
+    "sum_one": "R 1,000 - R 500,000",
+    "url": "https://www.capitecbank.co.za/personal/credit/personal-loan/"
+  },
+  {
+    "name": "Compare Personal Loans Online!",
+    "rating": 5,
+    "odobrenie": "High",
+    "age": "18 years and older",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/africanbank.png",
+    "sum_one": "R 1,000 - R 500,000",
+    "url": "https://www.africanbank.co.za/en/home/product-personal-loan/#"
+  },
+  {
+    "name": "Apply Online in Just a Few Steps!",
+    "rating": 5,
+    "odobrenie": "High",
+    "age": "18 years and older",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/fnbvvvbank.png",
+    "sum_one": "R 500 - R 450,000",
+    "url": "https://www.fnb.co.za/loans/personal-loan.html"
+  }
+
+  
+]
